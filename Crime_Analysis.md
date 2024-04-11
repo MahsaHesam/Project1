@@ -2,13 +2,13 @@
 Crime data for each Local Government Area (LGA) was collected and analysed to uncover crime trends in Victoria. Information regarding economical factors, such as inflation and unemployment, were also collected to find there is a correlation between the mentioned financial factors and the rates of crimes.
 
 ## Research Questions
-1. What are the LGAs with the highest crime rates (per 100,000 population) and how has it changed over the years?
-2. What type of crimes occur the most and is it different in each LGA? How has it changed over the years?
-3. Do economical factors, such as unemployment and inflation, affect crime rates? If so, how might it affect crime rate?
+1. Which LGAs have the highest crime rates and how has it changed over the past 10 years?
+2. What are the major divisions of crimes in Victoria and how has it changed over the past 10 years?
+3. Do economic factors, such as unemployment rate and inflation rate, affect crime rates? 
 
 ## Analysis of Crime Data
 
-### What are the LGAs with the highest crime rates (per 100,000 population) and how has it changed over the years?
+### Which LGAs have the highest crime rates and how has it changed over the past 10 years?
 
 **Graph 1: Crime rates by LGAs in 2023**
 
@@ -44,7 +44,7 @@ In 2016, an increase to crime rates was observed in all of the top 10 LGAs, exce
 
 Overall, Melbourne has been first throughout this period, followed by Latrobe and Yarra. On the other hand, the remaining LGAs swap positions, while remaining in the top 10. Furthermore, there is also a possibility that a couple of LGAs drop out of the top 10 in some years due to decrease in crime rates.
 
-### What type of crimes occur the most and is it different in each LGA? How has it changed over the years?
+### What are the major divisions of crimes in Victoria and how has it changed over the past 10 years?
 
 **Graph 4: Distribution of offence divisions**
 
@@ -76,7 +76,7 @@ Furthermore, Yarra has the second most *'property and deception offences'* but o
 
 **Graph 6: Incidents recorded by offence divisions over the years (2014-2023)**
 
-![Incidents recorded by offence divisions 2014-2023](./Visualisation%20Images/crime%20rate%20by%20Offence%20Division%20over%20the%20period%202014-2023.png)
+![Incidents recorded by offence divisions 2014-2023](./Visualisation%20Images/crime%20incidents%20by%20Offence%20Division%20over%20the%20period%202014-2023.png)
 
 Regarding graph 6, there appears to be to a spike of *'other offences'* in 2020. Additionally, there was also a drop in *'property and deception offences'* during that year. These sudden increase and decrease (respectively) of the two divisions may be attributed to the lockdowns that happened in Victoria during that time period as a result of COVID-19. It could explain why there was a drop in *'property and deception offences'* as most people would be inside their homes and offences against property would be reduced. However, more research will need to be conducted for these time periods to solidify the correlation between COVID-19 and the decrease of *'property and deception offences'*.
 
@@ -86,5 +86,5 @@ On the other hand, the other offence divisions seem to have a steady amount of i
 
 ![Top 10 offence subdivsions](./Visualisation%20Images/top%2010%20Offence%20subdivisions%20by%20incidents%20recorded.png)
 
-The offence subdivision that has the highest number of recorded incidents is theft, which is under the *'property and deception offences'* division. More research will be needed to understand why theft has the highest number of incidents recorded. However, an inference can be made that theft is a relatively easy offence to commit, as well as a relatively easy offence to catch and charge someone for. Offences that are mroe specific (i.e., firearms and drugs) have lower incident numbers as the categories does not cover a large variety of offences. It is also possible that those categories have low numbers because it takes a lot of time and effort to investigate those offences, especially if it involves groups of people.
+The offence subdivision that has the highest number of recorded incidents is theft, which is under the *'property and deception offences'* division. More research will be needed to understand why theft has the highest number of incidents recorded. However, an inference can be made that theft is a relatively easy offence to commit, as well as a relatively easy offence to catch and charge someone for. Offences that are more specific (i.e., firearms and drugs) have lower incident numbers as the categories does not cover a large variety of offences. It is also possible that those categories have low numbers because it takes a lot of time and effort to investigate those offences, especially if it involves groups of people.
 
