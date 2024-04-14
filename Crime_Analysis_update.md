@@ -13,6 +13,7 @@ Crime data for each Local Government Area (LGA) was collected and analysed to un
 **Graph 1: Crime rates by LGAs in 2023**
 
 ![Crime rates of Victoria's LGAs](./Visualisation%20Images/crime%20rate%20all%20LGAs%202023.png)
+
 This analysis provides insights into the distribution of crime rates across all LGAs in Victoria.
 The graph likely shows that 23% of the total crime rate is attributed to the top 10 LGAs, while the remaining 77% is distributed among the other 69 LGAs.
 
@@ -46,13 +47,13 @@ This analysis provides insights into the trends and fluctuations in crime rates 
 
 Looking at Graph 3, it is visible that the overall crime rates of Melbourne decreased over the years 2014 to 2023. Considering the start and end period, the crime rate has decreased by approximately 16%.  
 
-For Latrobe and Yarra, there was an increase in 2016, and between 2018 and 2020, before decreasing back to around the same rate as in 2014. From the duration of the period covered, it is noticeable that La Trobe had frequent spikes in terms of upstreams and downstreams while Yarra, on the other hand did not have very steep changes year on year.
+For Latrobe and Yarra, there was an increase in 2016, and between 2018 and 2020, before decreasing back to around the same rate as in 2014. From the duration of the period covered, it is noticeable that Latrobe had frequent spikes in terms of upstreams and downstreams while Yarra, on the other hand did not have very steep changes year on year.
 
 Tracking Horsham, there was a dip in crime rates in 2019 but it has started to increase again in recent years. Otherwise, for the other LGAs, there seems to be a slight increase from 2014 to 2023. 
 
 In 2016, an increase to crime rates was observed in all of the top 10 LGAs, except for Horsham and Ararat. More information will need to be researched to understand why there was an increase specifically in 2016.
 
-In 2022, 60% in the top 10 LGAs have drop-in crime rate with Melbourne, La Trobe, Yarra and Greater Shepparton reaching its lowest crime rate within the period covered.
+In 2022, 60% in the top 10 LGAs have drop-in crime rate with Melbourne, Latrobe, Yarra and Greater Shepparton reaching its lowest crime rate within the period covered.
 
 Overall, Melbourne had the highest crime rate throughout this period, followed by Latrobe and Yarra. On the other hand, the remaining LGAs swap positions, while remaining in the top 10. Furthermore, there is also a possibility that a couple of LGAs drop out of the top 10 in some years due to decrease in crime rates.
 
@@ -78,7 +79,7 @@ For *'justice procedures offences'* division, the offences that it covers partia
 
 Meanwhile, the *'other offences'* division only includes crimes that could not be categorised into the other divisions, making this category somewhat negligible in the analysis of what crime divisions have the highest incidents recorded.
 
-With all the factors and considerations mentioned above, it would be notable that the Major division of offences are further sub-divided into various minor offences. Considering that most of common crimes that frequently occur fall under the "Property and deception offences" umbrella, It is not surprising that the percentage of the crimes under this division sums up to be bigger that all the other divisions combined.
+With all the factors and considerations mentioned above, it would be notable that the major division of offences are further sub-divided into various minor offences. Considering that most of common crimes that frequently occur fall under the *'property and deception offences'* umbrella, it is not surprising that the percentage of the crimes under this division sums up to be bigger than all the other divisions combined.
 
 Overall, this breakdown provides insight into the types of offences that contribute to the overall crime rate and highlights the varying specificity and difficulty of detection for different types of crimes.
 
