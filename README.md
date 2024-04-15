@@ -16,7 +16,7 @@ Data
 Jupyter Notebook Code
 - `.ipynb` file with main code for data visualisation
 
-Presentation 
+Power point Presentation 
 - `.pptx` file with presentation summarising our project
 
 Visualisation Images
