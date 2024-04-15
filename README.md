@@ -7,27 +7,23 @@ Collaborators:
 - HESAMPOUR, Mahsa
 - LLANTO, Carla
 
-## Contents
-**EDIT LATER**
-
-**Main**
-- `.ipynb` file with main code for data visualisation
-
-**Folders & Content**
+## Folders & Contents
+- `.docx` of our project proposal
 
 Data
-- Contains all the datasets used in this project
+- 2 `.csv` files with the datasets used in this project
+
+Jupyter Notebook Code
+- `.ipynb` file with main code for data visualisation
 
 Presentation 
-- Contains the main powerpoint presentation that includes all the information from this project
+- `.pptx` file with presentation summarising our project
 
 Visualisation Images
-- Contains all the graphs generated
+- 13 `.png` files of data visualisation
 
 Written Report
-- Contains the write-up of our analysis
-
-
+- `.md` file with analysis report
 
 ## Introduction
 Our project aims to uncover the patterns of crime rates in Victoria by Local Government Areas (LGAs) within the last 10 years (2014-2023), and explore potential links with economic indicators like unemployment and inflation rates. We hope to gain valuable insights that can help to inform crime prevention strategies and recommendation for the public security and safety.
@@ -94,3 +90,21 @@ Datasets were converted to CSV files and then imported to Python in Jupyter Note
 - The rate of unemployment and inflation does not affect crime rates
 - The regression models do not show statistical significance in predicting crime rates
 - There may be other factors that are driving the crime rates
+
+## Recommendations & Improvements
+1. Focus on high-crime LGAs
+  - Resources should be allocated according to crime rates in each LGA
+  - Some LGAs have a different spread of crimes, therefore, crime prevention strategies should be adjusted for each area.
+2. Addressing potential socioeconomic factors
+  - More research required into other socio-economic factors that may influence crime rates
+3. Community egagement and crime prevention
+  - Develop targeted crime prevention initiatives with the community
+4. Ivest in data-driven policing
+  - Use crime data to identify patterns and hotspots for criminal activity
+5. Focus on rehabilitation and reintegration
+  - Invest in programs that may address the root causes of crimes
+  - May help in decouraging criminal activity
+6. Exploring addtional economic variables
+  - Further research to see if there is any change in results
+7. Larger time period for dataset
+  - For a more robust analysis
