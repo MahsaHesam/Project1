@@ -31,7 +31,7 @@ Our project aims to uncover the patterns of crime rates in Victoria by Local Gov
 ![Victoria and its LGAs](https://github.com/MahsaHesam/Project1-Crime-Analysis-in-Victoria/assets/70048005/607fdc7f-0cdd-485a-9586-fe137641036e)
 
 ## Research Questions
-Our research questions are:
+Our research questions were:
 - What is the distribution of crime rate by all LGAs in Victoria?
 - Which LGAs have the highest crime rates and how has it changed over the past 10 years?
 - What are the major divisions of crime in Victoria and how has it changed over the past 10 Years?
