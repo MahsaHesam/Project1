@@ -93,18 +93,18 @@ Datasets were converted to CSV files and then imported to Python in Jupyter Note
 
 ## Recommendations & Improvements
 1. Focus on high-crime LGAs
-  - Resources should be allocated according to crime rates in each LGA
-  - Some LGAs have a different spread of crimes, therefore, crime prevention strategies should be adjusted for each area.
+   - Resources should be allocated according to crime rates in each LGA
+   - Some LGAs have a different spread of crimes, therefore, crime prevention strategies should be adjusted for each area.
 2. Addressing potential socioeconomic factors
-  - More research required into other socio-economic factors that may influence crime rates
+   - More research required into other socio-economic factors that may influence crime rates
 3. Community egagement and crime prevention
-  - Develop targeted crime prevention initiatives with the community
+   - Develop targeted crime prevention initiatives with the community
 4. Ivest in data-driven policing
-  - Use crime data to identify patterns and hotspots for criminal activity
+   - Use crime data to identify patterns and hotspots for criminal activity
 5. Focus on rehabilitation and reintegration
-  - Invest in programs that may address the root causes of crimes
-  - May help in decouraging criminal activity
+   - Invest in programs that may address the root causes of crimes
+   - May help in decouraging criminal activity
 6. Exploring addtional economic variables
-  - Further research to see if there is any change in results
+   - Further research to see if there is any change in results
 7. Larger time period for dataset
-  - For a more robust analysis
+   - For a more robust analysis
