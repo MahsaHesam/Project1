@@ -1,5 +1,5 @@
 # Crime Analysis in Victoria
-This is a submission for Project 1 of the Data Analytics Boot Camp by Monash University and EdX.
+This is a submission for Project 1 of the Data Analytics Boot Camp at Monash University and EdX.
 
 Collaborators:
 - AMIN, Muzaffar
