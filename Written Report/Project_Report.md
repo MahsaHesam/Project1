@@ -143,7 +143,7 @@ The following are core insights based on the results:
 
 ### Property and deception offences Rate per 100,000 population
 ![Regression output for Property and deception offences rate](../Visualisation%20Images/Regression%20output%20for%20property%20and%20deception%20rate.png)
-![Regression chart for Property and deception offences rate](../Visualisation%20Images/Avg%20Unemployment%20and%20Inflation%20rate%20vs%20Property%20and%20Deception%20offences%20Rate.png)
+![Regression chart for Property and deception offences rate](../Visualisation%20Images/Avg%20Unemployment%20and%20Inflation%20rate%20vs%20Property%20and%20Deception%20Offences%20rate.png)
 
 1. **Model Fit:**
    - R-squared (R²): 0.309 indicates that approximately 30.9% of the variance in the dependent variable is explained by the independent variables. This suggests a moderate level of explanatory power.
@@ -163,7 +163,7 @@ The following are core insights based on the results:
 
 ### Crimes against the person Rate per 100,000 population' dependent variable 
 ![Regression output for Crimes against the person rate](../Visualisation%20Images/Regression%20output%20for%20crime%20against%20the%20person%20rate.png)
-![Regression chart for Crimes against the person rate](../Visualisation%20Images/Avg%20Unemployment%20and%20Inflation%20rate%20vs%20Crimes%20against%20the%20person%20rate.png)
+![Regression chart for Crimes against the person rate](../Visualisation%20Images/Avg%20Unemployment%20and%20Inflation%20rate%20vs%20Crimes%20against%20the%20Person%20rate.png)
 
 1. **Model Fit:**
    - R-squared (R²): 0.457 indicates that approximately 45.7% of the variance in the dependent variable is explained by the independent variables. This suggests a moderate level of explanatory power.
