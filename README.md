@@ -10,13 +10,23 @@ Collaborators:
 ## Contents
 **EDIT LATER**
 
-Data - Contains all the datasets used in this project
+**Main**
+- `.ipynb` file with main code for data visualisation
 
-Power point presentation - Contains the main powerpoint presentation that includes all the information from this project
+**Folders & Content**
 
-Visualisation Images - Contains all the graphs generated
+Data
+- Contains all the datasets used in this project
 
-Written Report - Contains the write-up analysis of the graphs 
+Presentation 
+- Contains the main powerpoint presentation that includes all the information from this project
+
+Visualisation Images
+- Contains all the graphs generated
+
+Written Report
+- Contains the write-up of our analysis
+
 
 
 ## Introduction
@@ -76,7 +86,8 @@ Datasets were converted to CSV files and then imported to Python in Jupyter Note
   5. Drug offences - 3.57%
   6. Other offences - 0.16%
 - The most common types of crimes (e.g., theft, forgery, burglary, graffiti, etc.) fall under the *'property and deception offences'* umbrella
-  - May be a factor as to why this division encompasses a large proportion of the total incidents
+  - May be why this division encompasses a large proportion of the total incidents
+  - Theft is the most frequently occurring crime
 - *'Other offences'* contain offences that do not fit into the major offence divisions
 
 ### Do economic factors, such as unemployment rate and inflation rate, affect crime rates? 
