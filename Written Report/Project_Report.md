@@ -113,7 +113,7 @@ Y (Crime against the person rate) = E1Xu + E2Xi + ε
 
 
 
-# Crime Rate per 100,000 population as the dependent variable
+# Crime Rate per 100,000 population as the dependent variable #
 ![Regression output for total crime rate](./Visualisation%20Images/Regression%20output%20for%20total%20crime%20rate.png)
 ![Regression chart for total crime rate](./Visualisation%20Images/Avg%20Unemployment%20and%20Inflation%20rate%20vs%20Total%20Crime%20Rate.png)
 
@@ -134,7 +134,7 @@ The following are core insights based on the results:
 4. **Conclusion:**
    Based on these results, it seems that the model with the current independent variables does not effectively explain the variation in the Total Crime Rate per 100,000 population. 
 
-# Property and deception offences Rate per 100,000 population
+# Property and deception offences Rate per 100,000 population #
 ![Regression output for Property and deception offences rate](./Visualisation%20Images/Regression%20output%20for%20property%20and%20deception%20rate-1.png)
 ![Regression chart for Property and deception offences rate](./Visualisation%20Images/Avg%20Unemployment%20and%20Inflation%20rate%20vs%20Property%20and%20Deception%20offences%20Rate.png)
 
@@ -154,7 +154,7 @@ The following are core insights based on the results:
    Similar to the previous analysis, these results indicate that the model with the current independent variables does not effectively explain the variation in the Property and deception offences Rate per 100,000 population.
 
 
-# Crimes against the person Rate per 100,000 population' dependent variable 
+# Crimes against the person Rate per 100,000 population' dependent variable #
 ![Regression output for Crimes against the person rate](./Visualisation%20Images/Regression%20output%20for%20crime%20against%20the%20person%20rate.png)
 ![Regression chart for Crimes against the person rate](./Visualisation%20Images/Avg%20Unemployment%20and%20Inflation%20rate%20vs%20Crimes%20against%20the%20person%20rate.png)
 
@@ -178,21 +178,25 @@ The following are core insights based on the results:
 ## Summary/Conclusions
 
 **Crime Rates by LGA**
+
 •	Melbourne has the highest overall crime rate, followed by Latrobe and Mildura.
 •	Half of the top 10 LGAs with the highest crime rates are urban, while the other half are regional or rural.
 
 **Crime Divisions in Victoria**
+
 •	Property and deception offences make up the highest proportion of crimes.
 •	The distribution of offences varies across LGAs.
 •	Theft is the most common sub category of offence.
 
 **Crime rates over Time**
+
 •  Melbourne's crime rate has decreased over the past 10 years and has had a stable trend from 2022 onwards , while other LGAs have seen an increasing trend from 2022  onwards. 
 •  After a sharp increase in crimes rates in all LGAs in 2016, there was a decresing trend in crime from that year onwards.
 •	There was a decrease in property and deception offences in 2020, which might be linked to COVID-19 lockdowns.
 •  There has been an increasing trend in crime rates from 2022 onwards.
 
 **Crime and Economic factors**
+
 • All 3 regression models did not show statistical significance in predicting crime rates in Victoria.
 • We do not reject the null hypothesis that the rate of unemployment and inflation does not influence crime rates in Victoria.
 • Other factors (such as psychological, social, political, and self interest) may be what’s driving crime in Victoria than economic factors. 
