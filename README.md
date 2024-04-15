@@ -99,7 +99,7 @@ Datasets were converted to CSV files and then imported to Python in Jupyter Note
    - More research required into other socio-economic factors that may influence crime rates
 3. Community egagement and crime prevention
    - Develop targeted crime prevention initiatives with the community
-4. Ivest in data-driven policing
+4. Invest in data-driven policing
    - Use crime data to identify patterns and hotspots for criminal activity
 5. Focus on rehabilitation and reintegration
    - Invest in programs that may address the root causes of crimes
