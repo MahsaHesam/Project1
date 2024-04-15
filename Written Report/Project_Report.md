@@ -178,21 +178,25 @@ The following are core insights based on the results:
 ## Summary/Conclusions
 
 **Crime Rates by LGA**
+
 •	Melbourne has the highest overall crime rate, followed by Latrobe and Mildura.
 •	Half of the top 10 LGAs with the highest crime rates are urban, while the other half are regional or rural.
 
 **Crime Divisions in Victoria**
+
 •	Property and deception offences make up the highest proportion of crimes.
 •	The distribution of offences varies across LGAs.
 •	Theft is the most common sub category of offence.
 
 **Crime rates over Time**
+
 •  Melbourne's crime rate has decreased over the past 10 years and has had a stable trend from 2022 onwards , while other LGAs have seen an increasing trend from 2022  onwards. 
 •  After a sharp increase in crimes rates in all LGAs in 2016, there was a decresing trend in crime from that year onwards.
 •	There was a decrease in property and deception offences in 2020, which might be linked to COVID-19 lockdowns.
 •  There has been an increasing trend in crime rates from 2022 onwards.
 
 **Crime and Economic factors**
+
 • All 3 regression models did not show statistical significance in predicting crime rates in Victoria.
 • We do not reject the null hypothesis that the rate of unemployment and inflation does not influence crime rates in Victoria.
 • Other factors (such as psychological, social, political, and self interest) may be what’s driving crime in Victoria than economic factors. 
