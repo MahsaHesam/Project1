@@ -1,5 +1,5 @@
 # Project 1: Victorian Crime Analysis
-Crime data for each Local Government Area (LGA) was collected and analysed to uncover crime trends in Victoria. Information regarding economical factors, such as inflation and unemployment, were also collected to find there is a correlation between the mentioned financial factors and the rates of crimes.
+Crime data for each Local Government Area (LGA) was collected and analysed to uncover crime trends in Victoria. Information regarding economical factors, such as inflation and unemployment rate, were also collected to find if there was a correlation between the mentioned financial factors and the rates of crimes.
 
 ## Research Questions
 1. Find the distribution of crime rate by all Local Government Area(LGA)s in Victoria?
@@ -42,7 +42,7 @@ Another thing to note is that, while rural Mildura is ranked third overall, it i
 
 ![Top 10 LGAs from 2014 to 2023](../Visualisation%20Images/top%2010%20LGA%20crime%20rate%20over%20the%20period%202014-2023.png)
 
-Looking at Graph 3, it is visible that the overall crime rates of Melbourne decreased over the years 2014 to 2023. For Latrobe and Yarra, there was an increase in 2016, and between 2018 and 2020, before decreasing back to around the same rate as in 2014. Tracking Horsham, there was a dip in crime rates in 2019 but it has started to increase again in recent years. Otherwise, for the other LGAs, there seems to be a slight increase from 2014 to 2023. 
+Looking at Chart 3, it is visible that the overall crime rates of Melbourne decreased over the years 2014 to 2023. For Latrobe and Yarra, there was an increase in 2016, and between 2018 and 2020, before decreasing back to around the same rate as in 2014. Tracking Horsham, there was a dip in crime rates in 2019 but it has started to increase again in recent years. Otherwise, for the other LGAs, there seems to be a slight increase from 2014 to 2023. 
 
 In 2016, an increase to crime rates was observed in all of the top 10 LGAs, except for Horsham and Ararat. More information will need to be researched to understand why there was an increase specifically in 2016.
 
@@ -74,7 +74,7 @@ Meanwhile, the *'other offences'* division only includes crimes that could not b
 
 ![LGAs' split in offence divisions in 2023](../Visualisation%20Images/stacked%20bar%20Chart%20for%20top%2010%20LGAs%20by%20offence%20division%20for%202023.png)
 
-Looking at Graph 5, it can be observed that *'property and deception offences'* takes up more than 50% of most of the LGAs' total incidents. However, there are some LGAs where the distribution of offence divisions is more equal. For example, Horsham has the least number of *'property and deception offences'*, but the higher numbers of offences in the other division (namely *'justice procedure offences'* and *'crimes against the person'*) places it at 7th, above Maribyrnong, that has more incidents recorded in the *'property and deception offences'* division. 
+Looking at Chart 5, it can be observed that *'property and deception offences'* takes up more than 50% of most of the LGAs' total incidents. However, there are some LGAs where the distribution of offence divisions is more equal. For example, Horsham has the least number of *'property and deception offences'*, but the higher numbers of offences in the other division (namely *'justice procedure offences'* and *'crimes against the person'*) places it at 7th, above Maribyrnong, that has more incidents recorded in the *'property and deception offences'* division. 
 
 Furthermore, Yarra has the second most *'property and deception offences'* but only ranks 4th because of the smaller amount of crimes committed in the other divisions. This is also the same with Maribyrnong having the third highest *'property and deception offences'* but only ranking 10th overall.
 
@@ -82,7 +82,7 @@ Furthermore, Yarra has the second most *'property and deception offences'* but o
 
 ![Incidents recorded by offence divisions 2014-2023](../Visualisation%20Images/crime%20incidents%20by%20Offence%20Division%20over%20the%20period%202014-2023.png)
 
-Regarding graph 6, there appears to be to a spike of *'other offences'* in 2020. Additionally, there was also a drop in *'property and deception offences'* during that year. These sudden increase and decrease (respectively) of the two divisions may be attributed to the lockdowns that happened in Victoria during that time period as a result of COVID-19. It could explain why there was a drop in *'property and deception offences'* as most people would be inside their homes and offences against property would be reduced. However, more research will need to be conducted for these time periods to solidify the correlation between COVID-19 and the decrease of *'property and deception offences'*.
+In chart 6, there appears to be to a spike of *'other offences'* in 2020. Additionally, there was also a drop in *'property and deception offences'* during that year. These sudden increase and decrease (respectively) of the two divisions may be attributed to the lockdowns that happened in Victoria during that time period as a result of COVID-19. It could explain why there was a drop in *'property and deception offences'* as most people would be inside their homes and offences against property would be reduced. However, more research will need to be conducted for these time periods to solidify the correlation between COVID-19 and the decrease of *'property and deception offences'*.
 
 On the other hand, the other offence divisions seem to have a steady amount of incidents over the years.
 
@@ -94,11 +94,11 @@ The offence subdivision that has the highest number of recorded incidents is the
 
 ### (Q4) Do economic factors, such as unemployment rate and inflation rate, affect crime rates? 
 
-A multiple regression anaylysis was done for three different dependent variables with three diffrent regression outputs generated. The dependent variables include'Total crime rate', 'Property and deception offences rate', and 'Crime against the person rate'. The independent variables remained fixed in all three different analysis and they include 'average unemployment rate' and 'average inflation rate'. The following multiple regression was defined for the purpose of the analysis: 
+A multiple regression anaylysis was done for three different dependent variables with three different regression outputs generated. The dependent variables include'Total crime rate', 'Property and deception offences rate', and 'Crime against the person rate'. The independent variables remained fixed in all three different analysis and they include 'average unemployment rate' and 'average inflation rate'. The following multiple regression was defined for the purpose of the analysis: 
 
 Multiple regression equation:
 
->Y= Eo + E1Xu + E2Xi + ε
+Y= Eo + E1Xu + E2Xi + ε
 
 Y = Crime rate (dependent variable)
 
@@ -114,11 +114,11 @@ Xi = average inflation rate (independent variable)
 
 Three different equations for the multiple regression analysis:
 
->Y (Total crime rate) = E1Xu + E2Xi + ε
+Y (Total crime rate) = E1Xu + E2Xi + ε
 
->Y (Property and deception offences rate) = E1Xu + E2Xi + ε
+Y (Property and deception offences rate) = E1Xu + E2Xi + ε
 
->Y (Crime against the person rate) = E1Xu + E2Xi + ε
+Y (Crime against the person rate) = E1Xu + E2Xi + ε
 
 ### Crime Rate per 100,000 population as the dependent variable
 ![Regression output for total crime rate](../Visualisation%20Images/Regression%20output%20for%20total%20crime%20rate.png)
