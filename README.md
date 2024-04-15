@@ -23,10 +23,10 @@ Visualisation Images
 - 13 `.png` files of data visualisation
 
 Written Report
-- `.md` file with analysis report
+- `.md` file with full analysis report
 
 ## Introduction
-Our project aims to uncover the patterns of crime rates in Victoria by Local Government Areas (LGAs) within the last 10 years (2014-2023), and explore potential links with economic indicators like unemployment and inflation rates. We hope to gain valuable insights that can help to inform crime prevention strategies and recommendation for the public security and safety.
+Our project aims to uncover the patterns of crime rates in Victoria by Local Government Areas (LGAs) within the last 10 years (2014-2023), and explore potential links with economic indicators like unemployment and inflation rates. We hope to gain valuable insights that can help to inform crime prevention strategies and recommendation for the public security and safety. For more information, please read `Project_Report.md` in the **Written Report** folder for a deatiled analysis.
 
 ![Victoria and its LGAs](https://github.com/MahsaHesam/Project1-Crime-Analysis-in-Victoria/assets/70048005/607fdc7f-0cdd-485a-9586-fe137641036e)
 
@@ -108,3 +108,4 @@ Datasets were converted to CSV files and then imported to Python in Jupyter Note
    - Further research to see if there is any change in results
 7. Larger time period for dataset
    - For a more robust analysis
+
