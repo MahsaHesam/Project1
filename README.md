@@ -26,7 +26,7 @@ Written Report
 - `.md` file with full analysis report
 
 ## Introduction
-Our project aims to uncover the patterns of crime rates in Victoria by Local Government Areas (LGAs) within the last 10 years (2014-2023), and explore potential links with economic indicators like unemployment and inflation rates. We hope to gain valuable insights that can help to inform crime prevention strategies and recommendation for the public security and safety. For more information, please read `Project_Report.md` in the **Written Report** folder for a deatiled analysis.
+Our project aims to uncover the patterns of crime rates in Victoria by Local Government Areas (LGAs) within the last 10 years (2014-2023), and explore potential links with economic indicators like unemployment and inflation rates. We hope to gain valuable insights that can help to inform crime prevention strategies and recommendation for the public security and safety. For more information, please read `Project_Report.md` in the **Written Report** folder for a detailed analysis.
 
 ![Victoria and its LGAs](https://github.com/MahsaHesam/Project1-Crime-Analysis-in-Victoria/assets/70048005/607fdc7f-0cdd-485a-9586-fe137641036e)
 
@@ -42,7 +42,7 @@ Our research questions are:
 ### Data Resources
 To answer our research questions, we decided upon a dataset that had information on the crime rates (per 100,000 population) of all the LGAs in Victoria from 2014 to 2023. That dataset also included information categorising the different crime divisions and the number of incidents recorded. Datasets showing inflation and unemployment rates for the desired years were also chosen.
 
-The datasets used in this projects are:
+The datasets used in this project were sourced from:
 - Crime Statistics Agency
   - [Data Tables LGA Criminal Incidents Year Ending December 2023](https://www.crimestatistics.vic.gov.au/crime-statistics/latest-victorian-crime-data/download-data)
 - Australian Bureau of Statistics
@@ -68,7 +68,7 @@ Datasets were converted to CSV files and then imported to Python in Jupyter Note
 
 ### Which LGAs have the highest crime rates and how has it changed over the past 10 years?
 - Melbourne remains as the top LGA in terms of crime rates over the years 2014-2023
-  - Crime rates have been decreasing throughout 2014-2023
+- Crime rates have been decreasing throughout 2014-2023
 - Latrobe and Yarra remains in the top 3, with the crime rate of Mildura rising in 2023
 - There was a spike in crimes rates in 2016 in all LGAs (except Horsham and Ararat)
 - A majority of the LGAs (i.e., 7 out of 10 LGAs) had a drop in crime rates in 2021
@@ -82,14 +82,15 @@ Datasets were converted to CSV files and then imported to Python in Jupyter Note
   5. Drug offences - 3.57%
   6. Other offences - 0.16%
 - The most common types of crimes (e.g., theft, forgery, burglary, graffiti, etc.) fall under the *'property and deception offences'* umbrella
-  - May be why this division encompasses a large proportion of the total incidents
-  - Theft is the most frequently occurring crime
+- May be why this division encompasses a large proportion of the total incidents
+- Theft is the most frequently occurring crime
 - *'Other offences'* contain offences that do not fit into the major offence divisions
 
 ### Do economic factors, such as unemployment rate and inflation rate, affect crime rates? 
 - The rate of unemployment and inflation does not affect crime rates
 - The regression models do not show statistical significance in predicting crime rates
-- There may be other factors that are driving the crime rates
+- Other factors (such as psychological, social, political, and self interest) may be what’s driving crime in Victoria than economic factors. 
+
 
 ## Recommendations & Improvements
 1. Focus on high-crime LGAs
@@ -104,8 +105,8 @@ Datasets were converted to CSV files and then imported to Python in Jupyter Note
 5. Focus on rehabilitation and reintegration
    - Invest in programs that may address the root causes of crimes
    - May help in decouraging criminal activity
-6. Exploring addtional economic variables
+6. Exploring additional economic variables for regression analysis
    - Further research to see if there is any change in results
-7. Larger time period for dataset
-   - For a more robust analysis
+7. Accessing a larger time period dataset . 
+   - This will help with  a more robust analysis
 
